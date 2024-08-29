@@ -23,8 +23,7 @@ dependencies:
   flutter_window_close: ^1.0.0
   collection: '>=1.16.0'
 
-  livekit_client:
-    path: ../
+  livekit_client: ^2.2.4
 
 dev_dependencies:
   flutter_test:
